@@ -16,7 +16,7 @@ const Hero = () => {
             </span>
             <div className="hero-text text-justify m-10" data-aos="fade-down">
                 <p>
-                Unfortunately, as an AI language model, I do not have access to specific code or links related to GDSC GHRCE's About section. However, you can visit the official website or social media pages of GDSC GHRCE to find the relevant information and links. Additionally, you can try searching for GDSC GHRCE on platforms like GitHub, where they might have public repositories with code related to their activities.
+               At GDSC, we organize a diverse range of events and activities to cater to the interests of our members. From workshops on cutting-edge technologies like machine learning, cloud computing, and mobile app development to hackathons that challenge your problem-solving abilities, we have something for everyone. We believe in hands-on learning and strive to provide a platform where you can turn your ideas into reality.
                 </p>
             </div>
         </div>
